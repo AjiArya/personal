@@ -36,7 +36,7 @@ sections:
         - title: Cloud Architect
           company: PT Flexi Integrasi Digdaya
           company_url: 'https://flexi.co.id'
-          company_logo: org-x
+          company_logo: ''
           location: Jakarta, Indonesia
           date_start: '2023-03-01'
           date_end: ''
@@ -48,7 +48,7 @@ sections:
         - title: Service Delivery Manager
           company: PT Boer Technology
           company_url: 'https://btech.co.id'
-          company_logo: org-x
+          company_logo: ''
           location: Bogor, Indonesia
           date_start: '2022-03-01'
           date_end: '2023-04-01'
@@ -56,7 +56,7 @@ sections:
         - title: Cloud Engineer
           company: PT Boer Technology
           company_url: 'https://btech.co.id'
-          company_logo: org-x
+          company_logo: ''
           location: Bogor, Indonesia
           date_start: '2020-01-01'
           date_end: '2022-02-01'
@@ -64,7 +64,7 @@ sections:
         - title: Intern
           company: PT Boer Technology
           company_url: 'https://btech.co.id'
-          company_logo: org-x
+          company_logo: ''
           location: Bogor, Indonesia
           date_start: '2019-10-01'
           date_end: '2019-12-01'
@@ -236,15 +236,15 @@ sections:
       contact_links:
         - icon: telegram
           icon_pack: fab
-          name: Chat me
+          name: Telegram Chat
           link: 'https://t.me/ajiaryar'
         - icon: instagram
           icon_pack: fab
-          name: DM Me
+          name: Instagram DM
           link: 'https://instagram.com/ajiaryaa'
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Twitter DM
           link: 'https://twitter.com/aryasaurus'
       # Automatically link email and phone or display as text?
       autolink: true
