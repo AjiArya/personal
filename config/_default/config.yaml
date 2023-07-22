@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Aji Arya # Website name
-baseURL: 'https://ajiarya.id/' # Website URL
+baseURL: 'https://www.ajiarya.id/' # Website URL
 
 ############################
 ## LANGUAGE

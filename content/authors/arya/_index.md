@@ -37,6 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Information System
+      institution: Universitas Terbuka
+      year: 2023 - 2026
     - course: Teknik Komputer dan Jaringan
       institution: SMK Negeri 1 Tenggarong
       year: 2019
@@ -63,6 +66,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ajiarya/
+    display:
+      header: false
+  - icon: globe
+    icon_pack: fas
+    link: https://blog.ajiarya.id
     display:
       header: false
   # Link to a PDF of your resume/CV.
