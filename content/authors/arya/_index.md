@@ -68,6 +68,11 @@ social:
     link: https://www.linkedin.com/in/ajiarya/
     display:
       header: false
+  - icon: certificate
+    icon_pack: fas
+    link: https://www.credly.com/users/ajiarya/badges
+    display:
+      header: false
   - icon: globe
     icon_pack: fas
     link: https://blog.ajiarya.id

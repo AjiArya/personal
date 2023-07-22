@@ -163,7 +163,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
 # - block: markdown
 #   content:
 #     title: Gallery
@@ -201,9 +201,10 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
+      subtitle: '[See more talks](/talk)'
       filters:
         folders:
-          - event
+          - talk
     design:
       columns: '2'
       view: compact
