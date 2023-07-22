@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Aji Arya. This work is licensed under {license}'
+    notice: '© {year} Aji Arya. This work is licensed under {license}. Icon by [icons8](https://icons8.com)'
     license:
       enable: yes
       allow_derivatives: false
